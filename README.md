@@ -30,3 +30,13 @@ I just created a small Spring Boot application as an assignment for ISC company.
   http://localhost:8080/api/customers/0371440955
 ```
 
+# Monitoring Application Health through Spring Actuator exposed endpoints
+
+* The /health endpoint is used to check the health or state of the running application.
+  ```
+  http://localhost:8080/actuator/health
+  ```
+  ```
+* Displays a complete list of all the Spring beans in your application.
+  ```
+  
