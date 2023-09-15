@@ -1,5 +1,9 @@
 # ISC-ASSIGNMENT
-I just created a small Spring Boot application as an assignment for ISC company
+I just created a small Spring Boot application as an assignment for ISC company.
+
+# Application ER Diagram
+
+
 
 # Technologies used to create this application:
 1. Spring Boot
@@ -10,5 +14,5 @@ I just created a small Spring Boot application as an assignment for ISC company
 
 
 # Exposed endpoint
-[http:localhost:8080//http://localhost:8080/api/customers/0371440955
-   ](http://localhost:8080/api/customers/0371440955)http://localhost:8080/api/customers/0371440955
+http://localhost:8080/api/customers/0371440955
+
