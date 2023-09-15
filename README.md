@@ -20,7 +20,7 @@ I just created a small Spring Boot application as an assignment for ISC company.
 * I prepopulated the database by using a data.sql file which contains insert statements. You can add more customers and cards if you want by adding your insert statements inside this file. I've already inserted 2 customer with 0371440955 and 0036451185 as the national code.
 
 
-# Exposed endpoint
+# Exposed Endpoint
 * You can send your input to the API by providing national code as a path variable like the following:
 
 ```
