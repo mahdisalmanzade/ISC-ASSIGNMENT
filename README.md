@@ -36,7 +36,9 @@ I just created a small Spring Boot application as an assignment for ISC company.
   ```
   http://localhost:8080/actuator/health
   ```
-  ```
+  
 * Displays a complete list of all the Spring beans in your application.
+  ```
+  http://localhost:8080/actuator/beans
   ```
   
