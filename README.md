@@ -23,7 +23,7 @@ I just created a small Spring Boot application as an assignment for ISC company.
 ```
   http://localhost:8080/api/customers/{?}
 
-  Example
+  Example:
   http://localhost:8080/api/customers/0371440955
 ```
 
