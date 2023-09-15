@@ -3,6 +3,7 @@ I just created a small Spring Boot application as an assignment for ISC company.
 
 # Application ER Diagram
 ![](src/main/resources/img/ER Diagram.png)
+<img src="https://pasteboard.co/jbo3LgWb4Ojv.png" class="lg-img">
 
 
 # Technologies used to create this application:
