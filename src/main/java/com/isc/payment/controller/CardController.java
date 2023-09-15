@@ -20,7 +20,7 @@ public class CardController {
     private CustomerRepository customerRepository;
 
     @GetMapping("/customers/{customerId}/cards")
-    public ResponseEntity<List<Card>> getAllCardsByTutorialId(@RequestParam(required = false) Long tutorialId) throws Exception {
+    public ResponseEntity<List<Card>> getAllCardsByTutorialId(@PathVariable Long tutorialId) throws Exception {
         System.out.println(tutorialId);
         Customer customer = customerRepository.findById(tutorialId)
                 .orElseThrow(() -> new Exception("Not found Tutorial with id = " + tutorialId));
