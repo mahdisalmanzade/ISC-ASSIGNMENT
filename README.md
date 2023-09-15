@@ -5,7 +5,7 @@ I just created a small Spring Boot application as an assignment for ISC company.
 
 
 
-![](https://pasteboard.co/jbo3LgWb4Ojv.png)
+![ejO7M](https://imgtr.ee/image/ejO7M.png)
 
 
 # Technologies used to create this application:
