@@ -19,5 +19,9 @@ I just created a small Spring Boot application as an assignment for ISC company.
 
 
 # Exposed endpoint
-http://localhost:8080/api/customers/0371440955
+* You can send your input to the API by providing national code as a path variable like the following:
+
+```
+  http://localhost:8080/api/customers/0371440955
+```
 
