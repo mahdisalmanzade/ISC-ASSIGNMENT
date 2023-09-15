@@ -7,4 +7,8 @@ I just created a small Spring Boot application as an assignment for ISC company
 3. Hibernate as JPA Provider
 4. H2 in-memory Database
 5. Lombok library in order to reduce boilerplate code
-   
+
+
+# Exposed endpoint
+[http:localhost:8080//http://localhost:8080/api/customers/0371440955
+   ](http://localhost:8080/api/customers/0371440955)http://localhost:8080/api/customers/0371440955
