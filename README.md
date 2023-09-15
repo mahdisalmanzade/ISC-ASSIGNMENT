@@ -2,7 +2,7 @@
 I just created a small Spring Boot application as an assignment for ISC company.
 
 # Application ER Diagram
-
+![](src/main/resources/img/ER Diagram.png)
 
 
 # Technologies used to create this application:
