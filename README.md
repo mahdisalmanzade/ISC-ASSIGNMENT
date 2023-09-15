@@ -3,6 +3,8 @@ I just created a small Spring Boot application as an assignment for ISC company.
 
 # Application ER Diagram
 
+
+
 ![](https://pasteboard.co/jbo3LgWb4Ojv.png)
 
 
