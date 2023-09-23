@@ -2,9 +2,6 @@
 I just created a small Spring Boot application as an assignment for ISC company.
 
 # Application ER Diagram
-HEAD
-
-
 
 ![ERD](https://imgtr.ee/images/2023/09/15/57730d2738ca1f267060697f12b3498b.png)
 
