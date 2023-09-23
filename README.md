@@ -2,9 +2,12 @@
 I just created a small Spring Boot application as an assignment for ISC company.
 
 # Application ER Diagram
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 9e5f8f3 (Latest changes)
 ![ERD](https://imgtr.ee/images/2023/09/15/57730d2738ca1f267060697f12b3498b.png)
 
 
@@ -30,7 +33,7 @@ I just created a small Spring Boot application as an assignment for ISC company.
   http://localhost:8080/api/customers/0371440955
 ```
 
-# Monitoring Application Health through Spring Actuator exposed endpoints
+# Monitoring Application Health by using Spring Actuator exposed endpoints
 
 * The /health endpoint is used to check the health or state of the running application.
   ```
